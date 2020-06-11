@@ -8,3 +8,12 @@
     text-align: center;
     padding-top: 30px;
     }
+
+    #underline {
+        text-decoration: underline;
+    }
+
+    #spongebob {
+        background-color: yellow;
+        width: 230px;
+    }
